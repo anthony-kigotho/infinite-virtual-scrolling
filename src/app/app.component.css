@@ -1,0 +1,19 @@
+.viewport {
+  height: 80vh;
+  width: 300px;
+  border: 1px solid #ccc;
+  overflow: auto;
+}
+
+.item {
+  height: 50px;
+  line-height: 50px;
+  padding-left: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.loading {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+}
